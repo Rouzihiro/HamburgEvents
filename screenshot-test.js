@@ -33,23 +33,19 @@ const urls = [
     // Set the URL of the website
     const url = urls[i];
     
-    // Block requests that might include cookie banners
-    await page.setRequestInterception(true);
-    page.on('request', request => {
-      const url = request.url();
-      if (url.includes('cookie') || url.includes('consent')) {
-        request.abort();
-      } else {
-        request.continue();
-      }
-    });
-    
     // Navigate to the URL
     await page.goto(url, { waitUntil: 'networkidle2' });
     
+    // Execute JavaScript to hide cookie banners
+    await page.evaluate(() => {
+      // Example: Remove elements by class name or ID
+      const banners = document.querySelectorAll('.cookie-banner, .cookie-consent, #cookie-consent, .cookie-notice');
+      banners.forEach(banner => banner.style.display = 'none');
+    });
+    
     // Set the viewport size (optional)
-    await page.setViewport({ width: 800, height: 1600 });
-
+    await page.setViewport({ width: 1200, height: 800 });
+    
     // Define the screenshot file path in the 'images' directory
     const screenshotPath = path.join(imagesDir, `${i + 1}.png`);
     

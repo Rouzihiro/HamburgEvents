@@ -39,22 +39,6 @@ const urls = [
     // Set the viewport size (optional)
     await page.setViewport({ width: 1200, height: 800 });
     
-    // Optional: Automatically accept cookies
-    try {
-      // Wait for the cookie consent button and click it
-      await page.waitForSelector('button.cookie-consent-button', { timeout: 5000 });
-      await page.click('button.cookie-consent-button');
-    } catch (error) {
-      console.log('Cookie consent button not found or not needed.');
-    }
-
-    try {
-      await page.waitForSelector('a.cookie-consent-link', { timeout: 5000 });
-      await page.click('a.cookie-consent-link');
-    } catch (error) {
-      console.log('Cookie consent link not found or not needed.');
-    }
-
     // Define the screenshot file path in the 'images' directory
     const screenshotPath = path.join(imagesDir, `${i + 1}.png`);
     

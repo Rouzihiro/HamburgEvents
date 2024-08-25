@@ -48,7 +48,7 @@ const urls = [
     await page.goto(url, { waitUntil: 'networkidle2' });
     
     // Set the viewport size (optional)
-    await page.setViewport({ width: 1200, height: 800 });
+    await page.setViewport({ width: 1200, height: 1600 });
     
     // Define the screenshot file path in the 'images' directory
     const screenshotPath = path.join(imagesDir, `${i + 1}.png`);

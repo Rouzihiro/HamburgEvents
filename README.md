@@ -10,6 +10,31 @@
 [![Nochtspeicher](images/2.png)](https://nochtspeicher.de/)
 - [Google Maps Location](https://maps.app.goo.gl/tx6ktNHNEYL9oUk86)
 
+<details>
+  <summary>More Information</summary>
+  
+  **Address:** Bernhard-Nocht-Str. 69a, 20359, Hamburg  
+  **Website:** [https://nochtspeicher.de/](https://nochtspeicher.de/)  
+  **Email:** [info@nochtspeicher.de](mailto:info@nochtspeicher.de)  
+  **Phone:** +49 40 33398869  
+
+  **Background:**  
+  The Nochtspeicher is a unique attraction in Hamburg, located at Bernhard-Nocht-Str. 69a, 20359 Hamburg. This former Erotic-Art-Museum has been transformed into a vibrant cultural center, hosting events, concerts, literature, dance, and art exhibitions.
+
+  **Summary of Products and Services:**  
+  - Event space for various cultural activities, including concerts, poetry slams, and performances  
+  - No specific products are offered; instead, it’s a venue for experiencing art, music, and literature
+
+  **Reviews and Ratings:**  
+  Based on TripAdvisor reviews, the Nochtspeicher has an average rating of 4.5/5, with reviewers praising its central location, comfortable seating, and friendly staff. Some cons mentioned include limited food and drink options. Overall, visitors appreciate the unique atmosphere and successful events hosted at the Nochtspeicher.
+
+  **Additional Information:**  
+  - **Coordinates:** 53.54716, 9.96128  
+  - **Category:** Attraction  
+  - **Note:** The provided information focuses on the Nochtspeicher’s cultural activities and events, omitting details about its history as an Erotic-Art-Museum.
+  
+</details>
+
 ### Molotow Club
 [![Molotow Club](images/3.png)](https://molotowclub.com/programm/programm.php)
 - [Google Maps Location](https://maps.app.goo.gl/wz51JqvVxKSQVBZE6)

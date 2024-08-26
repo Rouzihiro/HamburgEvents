@@ -13,7 +13,8 @@ const urls = [
   'http://www.abaton.de/page.pl?index',
   'https://programm.ponybar.de/',
   'https://www.uebelundgefaehrlich.com/',
-  'https://www.hafenklang.com/programm/'
+  'https://www.hafenklang.com/programm/',
+  'https://rausgegangen.de/en/hamburg/'
 ];
 
 (async () => {

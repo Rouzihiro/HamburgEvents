@@ -1,5 +1,7 @@
 # Hamburg Events
 
+[!["Today's Tips - Events Happening Today in Hamburg"](images/11.png)](https://rausgegangen.de/en/hamburg/)
+
 ## Favorite spots
 
 ### Knust Hamburg

@@ -12,7 +12,7 @@
   **Address:** Neuer Kamp 30, 20357, Hamburg  
   **Website:** [https://knusthamburg.de/](https://knusthamburg.de/)  
   **Email:** [info@knusthamburg.de](mailto:info@knusthamburg.de)  
-  **Phone:** +49 40 87976230  
+  **Phone:** +494087976230  
 
   **Background:**  
   Knust Hamburg is a renowned music club located in the Rinderschlachthalle at Neuer Kamp 30 in St. Pauli, Hamburg. Established in 1976, the club has a rich history, having initially operated in the basement of a building on Brandstwiete in the Altstadt before moving to its current location in 2003.
@@ -250,7 +250,7 @@
   **Address:** Feldstr. 66, 20359 Hamburg, Germany  
   **Website:** [uebelundgefaehrlich.com](https://uebelundgefaehrlich.com/)  
   **Email:** [info@uebelundgefaehrlich.com](mailto:info@uebelundgefaehrlich.com)  
-  **Phone:** +49 40 15738276469  
+  **Phone:** +494015738276469  
 
   **About:**  
   Übel & Gefährlich is a Hamburg-based nightclub located in the Flakturm IV bunker on Heiligengeistfeld. Established in 2006, the club is known for its diverse programming, ranging from techno and jazz to singer-songwriter concerts. The venue has hosted notable artists such as Xavier Rudd, Kettcar, Polarkreis 18, Scooter, and Billie Eilish.
@@ -279,7 +279,7 @@
   **Address:** Große Elbstraße 84, Hamburg, DE  
   **Website:** [hafenklang.com](https://hafenklang.com/)  
   **Email:** [kontakt@hafenklang.com](mailto:kontakt@hafenklang.com)  
-  **Phone:** +49 40 388744  
+  **Phone:** +4940388744  
 
   **Rating:** 4.3 out of 5 stars based on 34 reviews, with the best rating being 5.0
 

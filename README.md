@@ -326,7 +326,7 @@
 
 ### Nachtasyl  
 
-[![Nachtasyl](images/11.png)](http://nachtasyl.de/) - [Google Maps Location](https://maps.app.goo.gl/uoH3ybTg1PnAeRC59)  
+[![Nachtasyl](images/12.png)](http://nachtasyl.de/) - [Google Maps Location](https://maps.app.goo.gl/uoH3ybTg1PnAeRC59)  
 
 <details>  
    <summary>More Information</summary>  

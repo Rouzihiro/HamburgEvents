@@ -5,7 +5,9 @@
 ## Favorite spots
 
 ### Knust Hamburg
+
 [![Knust Hamburg](images/1.png)](https://www.knusthamburg.de/programm/)
+
 - [Google Maps Location](https://maps.app.goo.gl/GHPBHArVxUsCCe3x9)
 
 <details>
@@ -34,7 +36,9 @@
 </details>
 
 ### Nochtspeicher
+
 [![Nochtspeicher](images/2.png)](https://nochtspeicher.de/)
+
 - [Google Maps Location](https://maps.app.goo.gl/tx6ktNHNEYL9oUk86)
 
 <details>
@@ -49,21 +53,25 @@
   The Nochtspeicher is a unique attraction in Hamburg, located at Bernhard-Nocht-Str. 69a, 20359 Hamburg. This former Erotic-Art-Museum has been transformed into a vibrant cultural center, hosting events, concerts, literature, dance, and art exhibitions.
 
   **Summary of Products and Services:**  
-  - Event space for various cultural activities, including concerts, poetry slams, and performances  
-  - No specific products are offered; instead, it’s a venue for experiencing art, music, and literature
+
+- Event space for various cultural activities, including concerts, poetry slams, and performances  
+- No specific products are offered; instead, it’s a venue for experiencing art, music, and literature
 
   **Reviews and Ratings:**  
   Based on TripAdvisor reviews, the Nochtspeicher has an average rating of 4.5/5, with reviewers praising its central location, comfortable seating, and friendly staff. Some cons mentioned include limited food and drink options. Overall, visitors appreciate the unique atmosphere and successful events hosted at the Nochtspeicher.
 
   **Additional Information:**  
-  - **Coordinates:** 53.54716, 9.96128  
-  - **Category:** Attraction  
-  - **Note:** The provided information focuses on the Nochtspeicher’s cultural activities and events, omitting details about its history as an Erotic-Art-Museum.
+
+- **Coordinates:** 53.54716, 9.96128  
+- **Category:** Attraction  
+- **Note:** The provided information focuses on the Nochtspeicher’s cultural activities and events, omitting details about its history as an Erotic-Art-Museum.
   
 </details>
 
 ### Molotow Club
+
 [![Molotow Club](images/3.png)](https://molotowclub.com/programm/programm.php)
+
 - [Google Maps Location](https://maps.app.goo.gl/wz51JqvVxKSQVBZE6)
 
 <details>
@@ -87,12 +95,15 @@
   The club has hosted numerous notable acts, including successful bands like Die Toten Hosen, and has been a launching pad for many up-and-coming artists. Its parties, such as MOTORBOOTY - The Rock’n’Roll Dancefloor, have become legendary.
 
   **Additional Information:**  
-  - **Future Outlook:** The club’s future is currently secure, with a recent agreement allowing it to remain at its current location until the end of 2024. Efforts are being made to preserve the club culture in Hamburg, and the Molotow Club is set to continue playing a vital role in the city’s music scene.
+
+- **Future Outlook:** The club’s future is currently secure, with a recent agreement allowing it to remain at its current location until the end of 2024. Efforts are being made to preserve the club culture in Hamburg, and the Molotow Club is set to continue playing a vital role in the city’s music scene.
   
 </details>
 
 ### Spielbudenplatz Events
+
 [![Spielbudenplatz Events](images/4.png)](https://spielbudenplatz.eu/erleben/events)
+
 - [Google Maps Location](https://maps.app.goo.gl/ViFxduZSsYEVDgVT8)
 
 <details>
@@ -100,21 +111,21 @@
   
   **Address:** Spielbudenplatz 21-22, Hamburg, DE  
   **Website:** [https://spielbudenplatz.eu/](https://spielbudenplatz.eu/)
-  **Email:** info@spielbudenplatz.eu
+  **Email:** <info@spielbudenplatz.eu>
   **Phone:** +494035771050
 
   **Events and Activities:**
   
-  - **Grenzen sind relativ Festival:**  
+- **Grenzen sind relativ Festival:**  
     On Saturday, August 17, 2024, from 15:00 to 23:00, the Spielbudenplatz will host a festival with a diverse program featuring live music, interactive experiences, and networking opportunities.
   
-  - **Food Truck Festival:**  
+- **Food Truck Festival:**  
     Although no specific dates are mentioned, previous years’ events suggest that the Food Truck Festival might take place around May, with over 20 food trucks offering a wide range of international cuisine, including vegan options.
   
-  - **Live Music and Container Bars:**  
+- **Live Music and Container Bars:**  
     Throughout the summer, enjoy live music and refreshing drinks at the container bars on the Spielbudenplatz, perfect for a leisurely summer evening.
   
-  - **Sun:Sets:**  
+- **Sun:Sets:**  
     Every Friday, the Spielbudenplatz’s summer deck transforms into a sundowner hotspot, ideal for relaxing and taking in the atmosphere.
 
   **Note:**  
@@ -123,7 +134,9 @@
 </details>
 
 ### Cinemaxx Hamburg Dammtor - Top Kinofilme
+
 [![Cinemaxx Hamburg Dammtor - Top Kinofilme](images/5.png)](https://www.cinemaxx.de/kinoprogramm/hamburg-dammtor/jetzt-im-kino/top-kinofilme?Datum=26-08-2024)
+
 - [Google Maps Location](https://maps.app.goo.gl/u8tYQxdPe5rwBJnd6)
 
 <details>
@@ -139,14 +152,15 @@
 
   **Ticket Prices:**  
   Ticket prices vary depending on the day of the week:  
-  - Monday to Wednesday: €7.90  
-  - Thursday to Sunday: €9.90
+
+- Monday to Wednesday: €7.90  
+- Thursday to Sunday: €9.90
 
   **Reviews:**  
   According to customer reviews, Cinemaxx Hamburg Dammtor has an overall rating of [insert rating here].
 
   **Unique Features:**  
-  The cinema is designed as a “Filmfestspielhaus” (film festival house) and offers a unique cinematic experience. Tickets can only be booked directly through the cinema. 
+  The cinema is designed as a “Filmfestspielhaus” (film festival house) and offers a unique cinematic experience. Tickets can only be booked directly through the cinema.
 
   **Parking:**  
   Parking options are available on the opposite side of the train tracks, including Alsterterasse, Edm.-Siemers-Allee, and Neue Rabenstraße/Mittelweg.
@@ -154,7 +168,9 @@
 </details>
 
 ### Schanzenkino - Open-Air
+
 [![Schanzenkino](images/6.png)](https://schanzenkino.de/programm)
+
 - [Google Maps Location](https://maps.app.goo.gl/VCvFtKB19FuhDUbFA)
 
 <details>
@@ -183,7 +199,9 @@
 </details>
 
 ### Abaton Kino
+
 [![Abaton](images/7.png)](http://www.abaton.de/page.pl?index)
+
 - [Google Maps Location](https://maps.app.goo.gl/4LxRddCXAYnwajsk9)
 
 <details>
@@ -210,7 +228,9 @@
 </details>
 
 ### Ponybar Programm
+
 [![Ponybar Programm](images/8.png)](https://programm.ponybar.de/)
+
 - [Google Maps Location](https://maps.app.goo.gl/VJVVarSpRMMey16K6)
 
 <details>
@@ -220,16 +240,18 @@
   **Coordinates:** 53.567497, 9.982314  
   **Phone:** +4940428387895  
   **Opening Hours:**  
-  - Monday: 09:00 - 02:00  
-  - Sunday: 10:00 - 23:00  
-  - Other days: 09:00 - 02:00  
+
+- Monday: 09:00 - 02:00  
+- Sunday: 10:00 - 23:00  
+- Other days: 09:00 - 02:00  
 
   **Description:**  
   Pony Bar is a cultural hub and café by day, transforming into a cozy bar by night. It offers a rich cultural program, including jazz events, and is a popular spot for students and locals alike.
 
   **Online Presence:**  
-  - **Website:** [ponybar.de](https://www.ponybar.de) (German only)  
-  - **Instagram:** [@pony_bar](https://www.instagram.com/pony_bar) (2,974 followers) - showcasing the café’s transformation into a cultural hub at night
+
+- **Website:** [ponybar.de](https://www.ponybar.de) (German only)  
+- **Instagram:** [@pony_bar](https://www.instagram.com/pony_bar) (2,974 followers) - showcasing the café’s transformation into a cultural hub at night
 
   **Reviews:**  
   Pony Bar has been praised for its high-quality events, affordable prices, and welcoming atmosphere.
@@ -243,7 +265,9 @@
 </details>
 
 ### Übel & Gefährlich
+
 [![Übel & Gefährlich](images/9.png)](https://www.uebelundgefaehrlich.com/)
+
 - [Google Maps Location](https://maps.app.goo.gl/LpJxnH2pXXhgWHEu5)
 
 <details>
@@ -272,7 +296,9 @@
 </details>
 
 ### Hafenklang
+
 [![Hafenklang](images/10.png)](https://www.hafenklang.com/programm/)
+
 - [Google Maps Location](https://maps.app.goo.gl/659rbpxjywD1EW5bA)
 
 <details>
@@ -293,5 +319,32 @@
 
   **Note:**  
   This information focuses solely on Hafenklang Hamburg, ignoring any irrelevant details.
+
+</details>
+
+</details>
+
+### Nachtasyl  
+
+[![Nachtasyl](images/11.png)](http://nachtasyl.de/) - [Google Maps Location](https://maps.app.goo.gl/uoH3ybTg1PnAeRC59)  
+
+<details>  
+   <summary>More Information</summary>  
+
+   **Address:** Alstertor 1, 20095 Hamburg, DE  
+
+   **Website:** [nachtasyl.de](http://nachtasyl.de/)  
+
+   **Email:** N/A  
+
+   **Phone:** +494032814207  
+
+   **Rating:** 5.0 out of 5 stars on Tripadvisor  
+
+   **Summary of Reviews and Ratings:**  
+   Visitors praise Nachtasyl for its great location, good music, and friendly atmosphere. Some reviewers mention that the bar is small and not suitable for large groups, but overall, it’s an excellent place to spend an evening in Hamburg.  
+
+   **Overview:**  
+   Nachtasyl is an attractive venue for those looking for a diverse night out in Hamburg. Offering a mix of concerts, readings, and club events, it provides various options for entertainment and relaxation.  
 
 </details>

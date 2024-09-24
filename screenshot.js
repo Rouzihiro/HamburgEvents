@@ -14,7 +14,8 @@ const urls = [
   'https://programm.ponybar.de/',
   'https://www.uebelundgefaehrlich.com/',
   'https://www.hafenklang.com/programm/',
-  'https://rausgegangen.de/en/hamburg/'
+  'https://rausgegangen.de/en/hamburg/',
+  'http://nachtasyl.de/'
 ];
 
 (async () => {

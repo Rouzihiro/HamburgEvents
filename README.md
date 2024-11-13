@@ -37,8 +37,8 @@
 
 ### Zwick St. Pauli
 
-[![Zwick St. Pauli](images/12.png)](https://www.zwick4u.com/live-musik-de-16.html)
-[![Zwick St. Pauli](images/13.png)](https://www.zwick4u.com/sport-live-de-17.html)
+[![Zwick St. Pauli](images/13.png)](https://www.zwick4u.com/live-musik-de-16.html)
+[![Zwick St. Pauli](images/14.png)](https://www.zwick4u.com/sport-live-de-17.html)
 
 - [Google Maps Location](https://maps.app.goo.gl/GHPBHArVxUsCCe3x9)
 

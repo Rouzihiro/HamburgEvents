@@ -15,7 +15,9 @@ const urls = [
   'https://www.uebelundgefaehrlich.com/',
   'https://www.hafenklang.com/programm/',
   'https://rausgegangen.de/en/hamburg/',
-  'http://nachtasyl.de/'
+  'http://nachtasyl.de/',
+  'https://www.zwick4u.com/live-musik-de-16.html',
+  'https://www.zwick4u.com/sport-live-de-17.html'
 ];
 
 (async () => {

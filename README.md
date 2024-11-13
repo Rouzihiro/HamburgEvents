@@ -35,6 +35,28 @@
   
 </details>
 
+### Zwick St. Pauli
+
+[![Zwick St. Pauli](images/12.png)](https://www.zwick4u.com/live-musik-de-16.html)
+[![Zwick St. Pauli](images/13.png)](https://www.zwick4u.com/sport-live-de-17.html)
+
+- [Google Maps Location](https://maps.app.goo.gl/GHPBHArVxUsCCe3x9)
+
+<details>
+  <summary>More Information</summary>
+  
+  **Address:** Millerntorplatz 1, 20359, Hamburg  
+  **Website:** [https://www.zwick4u.com](https://www.zwick4u.com/zwick-st-pauli-de-14.html)  
+  **Phone:** +49403141900  
+
+  **Overview:**  
+  Zwick St. Pauli is a popular music and sports bar with a classic rock vibe and an atmosphere filled with music memorabilia. Visitors enjoy live sports broadcasts, regular music events, and a wide selection of food and drinks.
+
+  **Opening Hours:**  
+  Daily from 11:30 AM to late
+
+</details>
+
 ### Nochtspeicher
 
 [![Nochtspeicher](images/2.png)](https://nochtspeicher.de/)
